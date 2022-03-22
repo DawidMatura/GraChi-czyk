@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="Pole.qml">Pole.qml</file>
+        <file alias="Background.qml">Background.qml</file>
+        <file alias="Smok.png">Smok.png</file>
+        <file alias="SmokP.png">SmokP.png</file>
+        <file alias="smokXD.png">smokXD.png</file>
+        <file alias="Pionek.qml">Pionek.qml</file>
+        <file alias="Button.qml">Button.qml</file>
+        <file alias="PoleStartowe.qml">PoleStartowe.qml</file>
+        <file alias="GenerowaniePlanszy.js">GenerowaniePlanszy.js</file>
+        <file alias="Baza.qml">Baza.qml</file>
+        <file alias="BazaPozioma.qml">BazaPozioma.qml</file>
+    </qresource>
+</RCC>

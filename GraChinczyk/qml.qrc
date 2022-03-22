@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Pole.qml</file>
+        <file>Background.qml</file>
+        <file>SmokP.png</file>
+        <file>Pionek.qml</file>
+        <file>Button.qml</file>
+        <file>PoleStartowe.qml</file>
+        <file>GenerowaniePlanszy.js</file>
+        <file>Baza.qml</file>
+        <file>BazaPozioma.qml</file>
+        <file>dragon.ico</file>
+    </qresource>
+</RCC>
